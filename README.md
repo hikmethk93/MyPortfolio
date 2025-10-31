@@ -55,10 +55,6 @@ Bu süreçte bilgi ve deneyimini paylaşarak bana rehberlik eden **Murat Yüceda
 ---
 **💡 Proje Tasarımı: Hikmet Külahcı**  
 ---
-## 🔗 Proje Detayları & Kaynak Kod
-📎 [GitHub Linki] : (https://github.com/hikmethk93/GitHub)  
-
----
 
 📸 **Projeme Ait Ekran Görüntüleri**  
 ---
